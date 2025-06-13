@@ -37,6 +37,5 @@ I'm currently studying for an MSc in Artificial Intelligence and Data Science at
 ---
 
 ## 🔗 Connect With Me
-- **LinkedIn**: [Your LinkedIn URL]
-- **GitHub**: [Your GitHub Profile URL]
+- **LinkedIn**: [https://www.linkedin.com/in/osasumwen-okunkpolor-7329561b3/]
 
